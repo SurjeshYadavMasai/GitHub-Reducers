@@ -1,0 +1,11 @@
+body {
+  background: GREY;
+  color: rgb(21, 36, 36);
+  text-align:justify
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
